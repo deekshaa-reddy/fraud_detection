@@ -36,3 +36,11 @@ It gives a new commit message and commits all the files sitting in the staging a
 git push -u origin master or git push 
 It is used to upload all the files and changes that were included in the most recent commit to your remote repository on GitHub.
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+git reset --hard <commit ID> was used.
+
+
+
+Other Important Commands
+
+git log: This command shows you the commit details. It lists out the commits made in the repository in reverse-chronological order, that is, the most recent commits show up first. It shows commits with the following details:
