@@ -200,8 +200,9 @@ deves@Devesh MINGW64 ~/fraud_detection (model)
 $ git push origin model
 Enumerating objects: 12, done.
 
-##
+## Commit changes in branch
 
+This is done in guthub . where admin will go through the branch check files changes later accept the push request to commit
 
 
 
